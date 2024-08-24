@@ -1,0 +1,118 @@
+@import url(./foot.css);
+
+#mid-1 img{
+    height: 560px;
+    width: 550px;
+    position: absolute;
+    top: 200%;
+    left: 5%;
+}
+#mid-1 h1{
+    font-size: 50px;
+    margin-left: 60%;
+    position: absolute;
+    top: 25em;
+}
+#mid-1 p{
+    margin-left: 60%;
+    position: absolute;
+    top: 265%;
+    right: 5%;
+}
+#mid-1 button{
+    height: 50px;
+    width: 145px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: black;
+    position: absolute;
+    left: 60%;
+    top: 282%;
+}
+#mid-1 span p{  
+    position: absolute;
+    left: 15%;
+    top: 285%;
+    text-decoration: underline;
+}
+#mid-2 img{
+    height: 550px;
+    width: 500px;
+    position: absolute;
+    right: 5%;
+    top: 115em;
+}
+#mid-2 h1{
+    font-size: 50px;
+    position: absolute;
+    left: 5%;
+    right: 59%;
+    top: 38em;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#mid-2 p{
+    position: absolute;
+    left: 5%;
+    top: 134em;
+    right: 60%;
+}
+#mid-2 button{
+    height: 50px;
+    width: 145px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: black;
+    position: absolute;
+    top: 139em;
+    left: 5%;
+}
+#mid-2 span p{
+    position: absolute;
+    top: 140em;
+    left: 20%;
+    text-decoration: underline;
+}
+#mid-3 img{
+    height: 560px;
+    width: 550px;
+    position: absolute;
+    top: 157em;
+    left: 5%;
+}
+#mid-3 h1{
+    font-size: 35px;
+    margin-left: 61%;
+    margin-right: 5%;
+    position: relative;
+    top: 33em;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#mid-3 p{
+    margin-left: 61%;
+    position: absolute;
+    right: 4%;
+    top: 165em;
+}
+#mid-3 button{
+    height: 50px;
+    width: 145px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: black;
+    position: absolute;
+    left: 61%;
+    top: 171em;
+}
+#mid-3 span p{  
+    position: absolute;
+    left: 15%;
+    top: 285%;
+    text-decoration: underline;
+}
+

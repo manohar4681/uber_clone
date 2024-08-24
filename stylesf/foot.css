@@ -1,0 +1,180 @@
+#foot1{
+    /* border: 2px solid; */
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    top: 197em;
+    background-color: #eeeeee;
+}
+#foot1 h2{
+    font-size: 35px;
+    position: absolute;
+    left: 5%;
+    top: 15%;
+}
+.qr1{
+    /* border: 2px solid; */
+    height: 200px;
+    width: 520px;
+    background-color: #fff;
+    position: absolute;
+    left: 5%;
+    top: 10em;
+}
+.qr1 img{
+    height: 150px;
+    position: absolute;
+    top: 12%;
+}
+.qr1 h1{
+    font-size: 25px;
+    position: absolute;
+    left: 31%;
+    top: 2em;
+}
+.qr1 p{
+    position: absolute;
+    left: 31%;
+    top: 6em;
+}
+.qr2{
+    /* border: 2px solid; */
+    height: 200px;
+    width: 520px;
+    background-color: #fff;
+    position: absolute;
+    left: 52%;
+    top: 10em;
+}
+.qr2 img{
+    height: 150px;
+    position: absolute;
+    top: 12%;
+}
+.qr2 h1{
+    font-size: 25px;
+    position: absolute;
+    left: 31%;
+    top: 2em;
+}
+.qr2 p{
+    position: absolute;
+    left: 31%;
+    top: 6em;
+}
+#foot2{
+    /* border: 2px solid; */
+    height: 145vh;
+    display: flex;
+    position: relative;
+    top: 130em;
+    background-color: black;
+    color: white;
+    line-height: 35px;
+}
+#foot2 div p{
+    font-size: 25px;
+    /* border: 2px solid; */
+    height: 100px;
+    position: relative;
+    top: 3em;
+    left: 2em;
+}
+#foot2  h2{
+    font-weight: normal;
+    font-size: 16px;
+    position: absolute;
+    top: 17%;
+    left: 4.5%;
+
+}
+#foot2 ol{
+    position: relative;
+    top: 28%;
+    left: 2%;
+    list-style: none;
+}
+#foot2 ol li:first-child{
+    font-weight: bold;
+}
+#foot2 ol+ol{
+    padding-left: 13%;
+}
+#social svg{
+    position: relative;
+    top: 71%;
+    right: 55em;
+    display: flexbox;
+    height: 20px;
+    width: 20px;
+}
+#social svg+svg{
+    position:relative;
+    top: 71%;
+    right: 48em;
+} 
+#social svg+svg+svg{
+    position:relative;
+    top: 71%;
+    right: 41em;
+} 
+#social svg+svg+svg+svg{
+    position:relative;
+    top: 71%;
+    right: 34em;
+} 
+#social svg+svg+svg+svg+svg{
+    position:relative;
+    top: 71%;
+    right: 27em;
+} 
+#timg img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 75%;
+    right: 75%;
+}
+#timg img+img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 75%;
+    right: 85%;
+}
+#sym svg{
+    position: absolute;
+    top: 71%;
+    right: 20%;
+}
+#sym svg+svg{
+    position: absolute;
+    top: 71%;
+    right: 10%;
+}
+#sym>p{
+    position: absolute;
+    top: 70%;
+    left: 80.5%;
+}
+#foot2>p{
+    position: absolute;
+    left: 90%;
+    top: 70%;
+}
+#timg ol{
+    position: absolute;
+    top: 90%;
+    display: flex;
+    padding-left: 76%;
+    font-weight: normal;
+    font-size: 11px;
+    color: gray;
+}
+#timg span p{
+    position: absolute;
+    top: 90%;
+    left: 6%;
+    font-size: 11px;
+    color: grey;
+}
